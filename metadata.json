@@ -1,0 +1,6 @@
+{
+  "name": "WireGuard VPN Client",
+  "description": "A modern native Android WireGuard VPN client with QR code scanner, network diagnostics, and encrypted configuration storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
